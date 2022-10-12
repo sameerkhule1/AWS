@@ -1,4 +1,4 @@
-# AWS Projects and Labs for Cloud-extensive AWS re/start training program
+# AWS Projects and Labs for cloud-extensive AWS re/start training program
 
 Link for the training program: https://digitalcareerinstitute.org/courses/aws-re-start-program/
 

@@ -3,9 +3,11 @@
 Link for the training program: https://digitalcareerinstitute.org/courses/aws-re-start-program/
 
 1. Download and extract .zip file
-2. To view project/lab document -> index.html
+2. To view project/lab document offline -> index.html
 3. Find related python files, cloudFormation yaml configurations
 
+
+Training program overview:
 - Design secure, high-performing, cost-effective, high-available, and scalable systems by referring the practices defined in AWS Well-Architected Framework and AWS Cloud Adoption Framework (AWS CAF)
 - Hands-on experience in various AWS core services including (but not limited to) EC2, EBS, EFS, ELB, IAM, VPC, Route 53, S3, CloudFront, SNS, SQS, Lambda, Auto-Scaling-Groups, Trusted Advisor, Organizations
 - Explored different AWS database services like RDS, DynamoDB, Aurora, Athena

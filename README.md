@@ -1,4 +1,4 @@
-# AWS restart cloud training course in nutshell
+# AWS cloud training in nutshell
 
 Introduction to Cloud Foundations:
 - Cloud deployments models: Cloud, On-premise, Hybrid
@@ -34,7 +34,7 @@ AWS core services:
 DevOps:
 - Docker containers, CICD/GitHub, Kubernetes/EKS/ECS, CloudFormation/Terraform, OpsWorks/Chef
 
-# AWS Projects and Labs for cloud-extensive AWS re/start training program
+# AWS Projects and Labs for AWS cloud training
 
 Link for the training program: https://digitalcareerinstitute.org/courses/aws-re-start-program/
 

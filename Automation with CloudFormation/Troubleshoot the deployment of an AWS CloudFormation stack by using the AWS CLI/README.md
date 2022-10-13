@@ -1,4 +1,4 @@
-# Run tasks, update configs, and access CLI using AWS Systems Manager
+# Troubleshoot the deployment of an AWS CloudFormation stack by using the AWS CLI
 
 Click on following link to preview:
 

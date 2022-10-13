@@ -3,7 +3,7 @@
 Link for the training program: https://digitalcareerinstitute.org/courses/aws-re-start-program/
 
 1. Download and extract .zip file
-2. To view project/lab document offline -> index.html
+2. To view project/lab document offline -> index file
 3. Find related python files, cloudFormation yaml configurations
 
 
